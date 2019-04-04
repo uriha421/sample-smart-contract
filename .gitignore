@@ -1,5 +1,5 @@
-./web3/node_modules/*
-./eth_private_net/geth/*
-./eth_private_net/geth_err.log
-./eth_private_net/history
-./eth_private_net/keystore/*
+web3/node_modules
+eth_private_net/geth
+eth_private_net/geth_err.log
+eth_private_net/history
+eth_private_net/keystore
